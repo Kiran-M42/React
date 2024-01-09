@@ -1,0 +1,9 @@
+1Q:- What is CDN ? 
+Ans:- A content delivery network, often called a CDN, is a distributed system of
+servers designed to deliver web content as quickly as possible to end-users.
+------------------
+2Q:- What is crossorigin ?
+Ans:-A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+CORS is used to manage cross-origin requests. CORS stands for Cross-Origin Resource Sharing,
+and is a mechanism that allows resources on a web page to be requested from another domain outside their own domain.
+------------------
